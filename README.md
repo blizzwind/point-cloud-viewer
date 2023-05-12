@@ -1,4 +1,4 @@
-# dem_viewer
+# point-cloud-viewer
 A point cloud &amp; image viewer.
 
 ### build
